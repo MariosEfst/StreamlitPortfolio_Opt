@@ -12,4 +12,6 @@ Switch directory to the application folder
 Type the following command:    streamlit run Home.py
 
 It will run the app locally.
+
+
  
